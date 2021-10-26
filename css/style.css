@@ -1,4 +1,13 @@
-@import 'bootstrap.min.css';@import 'bootstrap-grid.min.css';@import 'animate.css';@import 'ionicons.min.css';@import 'linearicons.css';@import 'animsition.css';@import 'magnific-popup.css';@import 'magnific-popup.css';@import 'jquery.pagepiling.css';@import 'owl.carousel.css';
+@import 'bootstrap.min.css';
+@import 'bootstrap-grid.min.css';
+@import 'animate.css';
+@import 'ionicons.min.css';
+@import 'linearicons.css';
+@import 'animsition.css';
+@import 'magnific-popup.css';
+@import 'magnific-popup.css';
+@import 'jquery.pagepiling.css';
+@import 'owl.carousel.css';
 @import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700|Oswald:400,300,700);
 
 /* Variables */
@@ -163,3 +172,4 @@ strong {
 #myModal #caption{
   text-align: center;
 }
+
